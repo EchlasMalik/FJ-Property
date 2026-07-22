@@ -13,7 +13,7 @@ const INFO = [
   {
     icon: MapPin,
     title: 'Where We Cover',
-    text: 'Birmingham, Coventry, Solihull, Walsall and the surrounding West Midlands',
+    text: 'East London: Newham, Tower Hamlets, Hackney & Redbridge\nPlus Essex, Kent and beyond — coverage is flexible, so just ask',
   },
   {
     icon: MessageCircle,
