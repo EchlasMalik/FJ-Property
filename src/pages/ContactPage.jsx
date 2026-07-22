@@ -13,7 +13,7 @@ const INFO = [
   {
     icon: MapPin,
     title: 'Where We Cover',
-    text: 'East London: Newham, Tower Hamlets, Hackney & Redbridge\nPlus Essex, Kent and beyond — coverage is flexible, so just ask',
+    text: 'Based in East London\nPlus Essex, Kent & beyond — flexible, just ask',
   },
   {
     icon: MessageCircle,
