@@ -90,6 +90,17 @@ export default function FinalCTA() {
             <ArrowUp className="h-3.5 w-3.5" />
           </button>
         </div>
+
+        <div className="pb-6 text-center">
+          <a
+            href="https://nexiorastudio.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-[11px] text-white/30 transition-colors hover:text-gold"
+          >
+            Crafted by Nexiora Studios
+          </a>
+        </div>
       </div>
     </section>
   )
