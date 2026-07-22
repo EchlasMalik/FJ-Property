@@ -98,7 +98,7 @@ export default function FinalCTA() {
             rel="noopener noreferrer"
             className="text-[11px] text-white/30 transition-colors hover:text-gold"
           >
-            Crafted by Nexiora Studios
+            Crafted by Nexiora Studio
           </a>
         </div>
       </div>
