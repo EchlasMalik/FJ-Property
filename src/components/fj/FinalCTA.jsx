@@ -75,7 +75,7 @@ export default function FinalCTA() {
 
       <div className="border-t border-white/10">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-8 flex flex-col sm:flex-row items-center justify-between gap-4">
-          <Logo className="h-14 w-auto" />
+          <Logo className="h-20 w-auto" />
 
           <p className="text-xs text-white/40 text-center">
             © {new Date().getFullYear()} FJ Property Services. All rights reserved.
